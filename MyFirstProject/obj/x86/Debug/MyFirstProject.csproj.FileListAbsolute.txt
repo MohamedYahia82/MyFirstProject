@@ -1,0 +1,7 @@
+D:\Mohamed Yahia\GIT\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+D:\Mohamed Yahia\GIT\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+D:\Mohamed Yahia\GIT\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.FrmLogIn.resources
+D:\Mohamed Yahia\GIT\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.Properties.Resources.resources
+D:\Mohamed Yahia\GIT\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.csproj.GenerateResource.Cache
+D:\Mohamed Yahia\GIT\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.exe
+D:\Mohamed Yahia\GIT\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.pdb
