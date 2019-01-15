@@ -18,7 +18,7 @@ namespace MyFirstProject
 
         private void cmdOk_Click(object sender, EventArgs e)
         {
-            this.Close();
+            MessageBox.Show("Please type user name and password.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         private void cmdCancel_Click(object sender, EventArgs e)
