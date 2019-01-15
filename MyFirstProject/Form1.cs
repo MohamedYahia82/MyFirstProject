@@ -15,5 +15,15 @@ namespace MyFirstProject
         {
             InitializeComponent();
         }
+
+        private void cmdOk_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void cmdCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
