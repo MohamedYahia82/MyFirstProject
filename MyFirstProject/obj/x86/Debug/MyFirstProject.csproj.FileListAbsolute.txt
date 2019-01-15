@@ -12,3 +12,4 @@ D:\Mohamed Yahia\GIT\MRamadan\MyFirstProject\MyFirstProject\bin\Debug\MyFirstPro
 D:\Mohamed Yahia\GIT\MRamadan\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.FrmLogIn.resources
 D:\Mohamed Yahia\GIT\MRamadan\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.Properties.Resources.resources
 D:\Mohamed Yahia\GIT\MRamadan\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.csproj.GenerateResource.Cache
+D:\Mohamed Yahia\GIT\MRamadan\MyFirstProject\MyFirstProject\obj\x86\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
